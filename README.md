@@ -1,30 +1,50 @@
-# Olá, Mundo! 👋
+<h1 align="center">Olá, eu sou a Sophia! ☺️</h1>
 
-## Sobre Mim
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQHBg5SoeFlksA/profile-displaybackgroundimage-shrink_350_1400/B4DZhRlESqGQAg-/0/1753715329022?e=1756944000&v=beta&t=9B9qIgbQeSaGjLjKrf6M6kUkOvJjOcq1myH3WfXfzrM" alt="Banner" width="100%" />
+</p>
 
-Sou [Seu Nome], um(a) [Sua Profissão] apaixonado(a) por tecnologia. Gosto de aprender coisas novas e contribuir para projetos open source. [1]
+---
 
-## Habilidades
+### 👩‍💻 Sobre mim
 
-- **Linguagens:** Python, JavaScript, Java [1]
-- **Ferramentas:** Git, Docker, Kubernetes [1]
-- **Bancos de Dados:** MySQL, PostgreSQL [1]
-- **Cloud:** AWS, Azure [1]
+🎓 Me chamo **Sophia Veiga**, sou de **Santo André, SP**.
 
-## Projetos Recentes
+💻 Atualmente, sou estudante do **SENAI - Jacob Lafer**, no curso de **Análise e Desenvolvimento de Sistemas**.
 
-- **[Nome do Projeto 1]:** [Breve descrição do projeto] [1]
-- **[Nome do Projeto 2]:** [Breve descrição do projeto] [1]
-- **[Nome do Projeto 3]:** [Breve descrição do projeto] [1]
+✨ Tenho grande interesse em unir **tecnologia** com a **área da saúde**, especialmente a **Odontologia**, que pretendo cursar futuramente. Acredito que soluções digitais podem melhorar tanto a experiência dos pacientes quanto a rotina dos profissionais.
 
-## Contato
+---
 
-- **GitHub:** [Link para seu perfil do GitHub] [1]
-- **LinkedIn:** [Link para seu perfil do LinkedIn] [1]
-- **Email:** [Seu endereço de email] [1]
+### 🧠 Conhecimentos
 
-## Badge de Tecnologias
+✅ Lógica de programação  
+✅ HTML  
+✅ CSS  
+✅ Power BI  
+✅ Desenvolvimento de Sistemas  
+✅ Design Front-end  
 
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)
-![Git](https://img.shields.io/badge/-Git-red?style=for-the-badge&logo=git)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,figma,vscode,git" />
+</div>
+
+---
+
+### 📈 Estatísticas GitHub
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SarahVeiga&show_icons=true&theme=radical" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarahVeiga&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+---
+
+### 📬 Contato
+
+📧 Email: [sophia.veiga@outlook.com](mailto:sophia.veiga@outlook.com)  
+💼 LinkedIn: [linkedin.com/in/sophia-veiga-72102a335](https://www.linkedin.com/in/sophia-veiga-72102a335)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&width=435&lines=Obrigada+pela+visita!+%F0%9F%92%95" alt="Typing SVG" />
+</p>
