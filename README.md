@@ -41,7 +41,6 @@
 
 ### 📬 Contato
 
-📧 Email: [sophia.veiga@outlook.com](mailto:sophia.veiga@outlook.com)  
 💼 LinkedIn: [linkedin.com/in/sophia-veiga-72102a335](https://www.linkedin.com/in/sophia-veiga-72102a335)
 
 <p align="center">
