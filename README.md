@@ -10,7 +10,7 @@
 
 🎓 Me chamo **Sophia Veiga**, sou de **Santo André, SP**.
 
-💻 Atualmente, sou estudante do **SENAI - Jacob Lafer**, no curso de **Análise e Desenvolvimento de Sistemas**.
+💻 Atualmente, sou estudante do **SENAI - A. Jacob Lafer**, no curso de **Análise e Desenvolvimento de Sistemas**.
 
 ✨ Tenho grande interesse em unir **tecnologia** com a **área da saúde**, especialmente a **Odontologia**, que pretendo cursar futuramente. Acredito que soluções digitais podem melhorar tanto a experiência dos pacientes quanto a rotina dos profissionais.
 
