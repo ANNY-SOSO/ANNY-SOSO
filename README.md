@@ -26,7 +26,7 @@
 ✅ Design Front-end  
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,figma,vscode,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,vscode,git" />
 </div>
 
 ---
